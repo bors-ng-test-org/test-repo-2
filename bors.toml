@@ -1,5 +1,1 @@
 status = [ "continuous-integration/travis-ci/push" ]
-
-[committer]
-name = "Michael Howell"
-email = "michael@notriddle.com"
