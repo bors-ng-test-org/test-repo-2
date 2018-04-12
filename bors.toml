@@ -1,2 +1,5 @@
 status = [ "continuous-integration/travis-ci/push" ]
 
+[committer]
+name = "notriddle "
+email = "1593513+notriddle@users.noreply.github.com"
