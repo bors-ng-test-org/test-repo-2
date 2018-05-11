@@ -1,3 +1,3 @@
-# test-repo-2
+# try with Travis without changing anything
 
-Updated now!
+Make sure we didn't break statuses before trying to do anything with Checks.
