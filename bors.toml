@@ -1,4 +1,5 @@
 status = [ "continuous-integration/travis-ci/push" ]
+required-approvals = 1
 
 [committer]
 name = "not\u0000riddle"
