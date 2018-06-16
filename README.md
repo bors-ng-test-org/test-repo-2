@@ -1,3 +1,1 @@
-# try with Travis without changing anything
-
-Make sure we didn't break statuses
+Make sure we didn't break
