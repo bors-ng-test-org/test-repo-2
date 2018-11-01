@@ -3,3 +3,4 @@ status = [
 ]
 delete-merged-branches = true
 timeout-sec = 7200
+committer = { name = "notriddle", email = "michael@notriddle.com" }
