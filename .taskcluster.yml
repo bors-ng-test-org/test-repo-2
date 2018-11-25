@@ -19,7 +19,7 @@ tasks:
         - '--login'
         - '-c'
         - >-
-          false
+          true
     metadata:
       name: Bors-NG test suite
       description: 'Run unit and integration tests with no browser and a mock GitHub API'
