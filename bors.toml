@@ -1,2 +1,2 @@
-status = [ "Taskcluster (push)" ]
+status = [ "Taskcluster (push)", "bors-ng-test-org.test-repo-2" ]
 delete-merged-branches = true
