@@ -1,2 +1,2 @@
-status = [ "bors-ng-test-org.test-repo-2" ]
+status = [ "Azure Pipelines" ]
 delete-merged-branches = true
