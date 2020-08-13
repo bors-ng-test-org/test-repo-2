@@ -1,2 +1,2 @@
-status = [ "bors-ng-test-org.test-repo-2" ]
 delete-merged-branches = true
+status = ["bors-ng-test-org.test-repo-2" ]
