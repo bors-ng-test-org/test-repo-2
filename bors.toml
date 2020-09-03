@@ -1,4 +1,4 @@
 delete-merged-branches = true
 status = ["bors-ng-test-org.test-repo-2" ]
 pr_status = [ "bors-ng-test-org.test-repo-2" ]
-test
+#test
